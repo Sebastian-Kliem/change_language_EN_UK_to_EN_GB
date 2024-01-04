@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <TimeFormat24 Number="011" Value="0"/>
+    <TemperatureUM Number="012" Value="0"/>
+    
+    <LightBlinkEnable Number="016" Value="1"/>
+    
+
+</Settings>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <PreaheatDefaultOn Number="013" Value="1"/>
+    <PercentMoreOfPreheating Number="014" Value="11"/>
+    <LightBlinkEnable Number="016" Value="1"/>
+    <ReachPreHeatEventSoundFile Number="031" Value="EndStep" />
+    <ReachPreHeatEventRepeat Number="034" Value="480" />
+    <StartScreenMode Number="111" Value="1" /> <!-- Programs -->
+    <StoreDisable Number="112" Value="1" />
+    <RunningChangeDisable Number="113" Value="1" />
+    <TimeValuesInMinutes Number="116" Value="1" />
+    <BakingHumidityAmountInTime Number="120" Value="1" />
+    <DisableSteamShot Number="135"  Value="1" />
+    <ImageNotOpenAutoClean Number="146" Value="1" />
+    
+    <FocusForBaking Number="151" Value="1"/>
+    <HideSpecialProgramIcons Number="158" Value="1"/>
+    <HideMenuGroups Number="159" Value="1"/>
+    <ShowTotalRestTimeForBaking Number="160" Value="1"/>
+</Settings>
+

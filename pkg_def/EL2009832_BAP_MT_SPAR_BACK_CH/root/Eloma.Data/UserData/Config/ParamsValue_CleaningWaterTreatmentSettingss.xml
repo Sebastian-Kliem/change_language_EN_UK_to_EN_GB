@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <WaterFilterCheckEnable Number="215" Value="0"/>
+    <WaterVolume Number="216" Value="100"/>
+    <WaterFilterChangePeriod Number="218" Value="300"/>
+    <CleanerErrorEnable Number="211" Value="1"/>
+    <CleaningVolume Number="212" Value="1"/>
+    <RinserErrorEnable Number="213" Value="1"/>
+    <RinseVolume Number="214" Value="1"/>
+    <CleaningRequestMode Number="153" Value="0"/>
+    <CleaningRequestInterval Number="154" Value="25"/>
+    <BlockCookingTime Number="168" Value="2"/>
+    <AirFilterIntevalEnable Number="158" Value="0"/>
+    <AirFilterIntervalPeriod Number="159" Value="30"/>
+    <CleaningAgentType Number="162" Value="0"/>
+    <CheckWasteWaterTank Number="929" Value="0"/>
+    <CheckFreshWaterTank Number="930" Value="0"/>
+    <DrainWaterTankSensor Number="923" Value="0"/>
+    <WaterTankInputSensor Number="231" Value="0"/>
+    <WaterHardnessMeasureUnit Number="241" Value="0"/>
+    <WaterHardnessValue Number="242" Value="14.00"/>
+</Settings>

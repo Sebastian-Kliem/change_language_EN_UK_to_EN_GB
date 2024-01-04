@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+
+    <ReachPreHeatEventVolume Number="032" Value="6" />
+    <EndRecipeEventVolume Number="036" Value="5" />
+    <EndStepEventVolume Number="052" Value="0" />
+    <KeepWarmEventVolume Number="056" Value="5"/>
+    <EndRecipeMultiEventVolume Number="042" Value="5" />
+    <StartRecipeMultiEventVolume Number="046" Value="5" />
+    
+</Settings>

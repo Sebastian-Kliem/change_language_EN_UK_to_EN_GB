@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+	<CombiTempDefault Number="831" Value="130"/>
+	<CombiHumidityDefault Number="832" Value="60"/>
+	<ConvectionTempDefault Number="833" Value="130"/>
+	<EnableCustomStepTimes Number="169" Value="1"/>
+    <DefaultStepTimeSteam Number="228" Value="10"/>
+    <DefaultStepTimeCombisteam Number="228" Value="25"/>
+    <DefaultStepTimeConvection Number="228" Value="60"/>
+	<DefaultFanSpeedCombisteam Number="228" Value="3"/>
+</Settings>

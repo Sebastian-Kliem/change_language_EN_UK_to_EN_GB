@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <WaterFilterCheckEnable Number="215" Value="0" />
+	<WaterFilterTimeCheck Number="217" Value="0" />
+	<FirstFlowMeter Number="222" Value="0" />
+    <FirstFlowMeterCorrectionEnable Number="234" Value="0"/>
+</Settings>

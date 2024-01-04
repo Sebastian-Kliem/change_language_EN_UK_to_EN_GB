@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Program Stored="true" Version="1.0">
+    <!--ProgramListConv version: 1.1. Conversion date: 2014-06-24. Done by: max.-->
+    <ProgramType>0</ProgramType>
+    <Comment>ムシト゛リ</Comment>
+    <Image Image="" ImgWide="true" />
+    <StepList>
+        <Step>
+            <StepType>0</StepType>
+            <Duration>0</Duration>
+            <Temperature>85</Temperature>
+            <HumidityPercentage>90</HumidityPercentage>
+            <FanMode>4</FanMode>
+            <FanSpeed>10</FanSpeed>
+            <IsCoreTempStep>true</IsCoreTempStep>
+            <ExhaustAirFlapClosed>false</ExhaustAirFlapClosed>
+            <Cooking>
+                <CoreTemperature>75</CoreTemperature>
+            </Cooking>
+        </Step>
+    </StepList>
+</Program>

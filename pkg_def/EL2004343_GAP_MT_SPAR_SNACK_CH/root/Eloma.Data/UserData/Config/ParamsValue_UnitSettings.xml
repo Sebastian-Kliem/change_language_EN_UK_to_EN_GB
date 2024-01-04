@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <TimeFormat24 Number="011" Value="1"/>
+    <TemperatureUM Number="012" Value="1"/>
+    <PreaheatDefaultOn Number="013" Value="0"/>
+    <PercentMoreOfPreheating Number="014" Value="10"/>
+    <LightMode1 Number="015" Value="0"/>
+    <LightMode2 Number="0150" Value="1"/>
+    <LightMode3 Number="0151" Value="0"/>
+    <LightBlinkEnable Number="016" Value="1"/>
+    <ShowMode Number="021" Value="0"/>
+    <DaylightSavingRule Number="063" Value="0"/>
+</Settings>

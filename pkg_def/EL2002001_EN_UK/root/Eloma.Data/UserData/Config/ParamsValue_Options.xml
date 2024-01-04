@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <SteamDischargeEnable Number="224" Value="0"/>
+    <FirstFlowMeterCorrectionEnable Number="234" Value="0"/>
+</Settings>

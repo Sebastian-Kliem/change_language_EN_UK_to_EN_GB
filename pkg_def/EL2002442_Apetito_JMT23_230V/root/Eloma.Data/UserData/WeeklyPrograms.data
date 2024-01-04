@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WeeklyPrograms Version="1.0" WeeklyManagementEnabled="false">
+    <WeeklyList>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>0</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>1</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>2</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>3</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>4</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>5</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+        <WeeklyItem>
+            <RecipeName>Standardzubereitung m. Deckel</RecipeName>
+            <StartDay>6</StartDay>
+            <StartHour>36000</StartHour>
+            <Enabled>true</Enabled>
+            <PreheatActive>false</PreheatActive>
+            <PreheatTemp>0</PreheatTemp>
+            <IsCleaning>false</IsCleaning>
+        </WeeklyItem>
+    </WeeklyList>
+</WeeklyPrograms>

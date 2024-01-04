@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <StartScreenMode Number="111" Value="1"/>
+	<StoreDisable Number="112" Value="1"/>
+	<RunningChangeDisable Number="113" Value="1"/>
+	<RestrictedType Number="121" Value="1"/>
+	<DisableProgramListMenuSelection Number="131" Value="1"/>
+	<DoorOpenAfterCooking Number="141" Value="1"/>
+	<DoorOpenAfterBaking Number="142" Value="1"/>
+	<DoorOpenAfterCleaning Number="143" Value="1"/>
+	<ImageNotOpenAutoClean Number="146" Value="1"/>
+	<HideWaterFilterResetButton Number="156" Value="1"/>
+	<HideSpecialProgramIcons Number="158" Value="1"/>
+	<HideMenuGroups Number="159" Value="1"/>
+	<ShowTotalRestTimeForBaking Number="160" Value="1"/>
+	<ManualTempFanSpeed Number="165" Value="5"/>
+</Settings>

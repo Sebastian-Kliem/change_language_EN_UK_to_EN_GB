@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <FocusForBaking Number="151" Value="1"/>
+    <HideSpecialProgramIcons Number="158" Value="1"/>
+    <HideMenuGroups Number="159" Value="1"/>
+    <ShowTotalRestTimeForBaking Number="160" Value="1"/>
+</Settings>

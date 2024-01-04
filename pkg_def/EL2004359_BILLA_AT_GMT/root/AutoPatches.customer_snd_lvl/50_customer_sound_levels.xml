@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <EndRecipeEventVolume Number="036" Value="6" />
+    <ReachPreHeatEventVolume Number="032" Value="5" />
+    <EndStepEventVolume Number="052" Value="5" />
+</Settings>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <HideManualCooking Number="590" Value="1"/>
+    <HideManualBaking Number="591" Value="0"/>
+    <HideProgramList Number="592" Value="0"/>
+    <HideLast20 Number="593" Value="1"/>
+    <HideFavorites Number="594" Value="1"/>
+    <HideSpecialProgram Number="595" Value="1"/>
+    <HideMulticookingPRO Number="596" Value="1"/>
+    <HideWeeklyProgrammingPRO Number="597" Value="1"/>
+</Settings>

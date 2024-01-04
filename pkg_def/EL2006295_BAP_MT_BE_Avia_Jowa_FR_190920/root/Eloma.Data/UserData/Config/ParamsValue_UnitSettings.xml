@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+	<DaylightSavingAutoAdjust Value="1" Number="062" />
+	<EndStepEventVolume Number="052" Value="3"/>
+	<CriticalAlarmVolume Number="061" Value="2"/>
+</Settings>

@@ -1,0 +1,20 @@
+ParamsValue_UnitSettings.xml:
+013 PreaheatDefaultOn = 1
+062 DaylightSavingAutoAdjust = 1
+
+ParamsValue_RunningSettings.xml:
+111 StartScreenMode = 1
+112 StoreDisable = 1
+113 RunningChangeDisable = 1
+116 TimeValuesInMinutes = 1
+121 RestrictedType = 1
+124 CoreStepDelayEnable = 0
+131 DisableProgramListMenuSelection = 1
+132 ExpandBarStepOverviewDisableInQuickMode = 1
+
+ParamsValue_Options.xml:
+215 WaterFilterCheckEnable = 0
+217 WaterFilterTimeCheck = 0
+222 FirstFlowMeter = 0
+234 FirstFlowMeterCorrectionEnable = 0
+

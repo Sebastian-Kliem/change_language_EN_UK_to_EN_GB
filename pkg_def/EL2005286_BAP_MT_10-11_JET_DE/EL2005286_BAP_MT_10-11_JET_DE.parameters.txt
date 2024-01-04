@@ -1,0 +1,9 @@
+ParamsValue_UnitSettings.xml:
+062 DaylightSavingAutoAdjust = 1
+
+ParamsValue_CustomisationSettings.xml:
+151 FocusForBaking = 1
+158 HideSpecialProgramIcons = 1
+159 HideMenuGroups = 1
+160 ShowTotalRestTimeForBaking = 1
+

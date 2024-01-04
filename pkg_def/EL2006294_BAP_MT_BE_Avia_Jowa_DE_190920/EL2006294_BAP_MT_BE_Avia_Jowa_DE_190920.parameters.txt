@@ -1,0 +1,24 @@
+ParamsValue_UnitSettings.xml:
+062 DaylightSavingAutoAdjust = 1
+052 EndStepEventVolume = 3
+061 CriticalAlarmVolume = 2
+
+ParamsValue_CustomisationSettings.xml:
+111 StartScreenMode = 1
+112 StoreDisable = 1
+113 RunningChangeDisable = 1
+121 RestrictedType = 1
+124 CoreStepDelayEnable = 0
+127 AutoCleanLevelSelection = 2
+131 DisableProgramListMenuSelection = 1
+132 ExpandBarStepOverviewDisableInQuickMode = 1
+134 DisableMultiCooking = 1
+136 CookingAddTimeOnlyAtTheEnd = 1
+141 DoorOpenAfterCooking = 0
+142 DoorOpenAfterBaking = 1
+143 DoorOpenAfterCleaning = 0
+146 ImageNotOpenAutoClean = 1
+
+ParamsValue_Options.xml:
+234 FirstFlowMeterCorrectionEnable = 0
+

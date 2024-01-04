@@ -1,0 +1,10 @@
+ParamsValue_ConfigDeveloper.xml:
+831 CombiTempDefault = 130
+832 CombiHumidityDefault = 60
+833 ConvectionTempDefault = 130
+169 EnableCustomStepTimes = 1
+228 DefaultStepTimeSteam = 10
+228 DefaultStepTimeCombisteam = 25
+228 DefaultStepTimeConvection = 60
+228 DefaultFanSpeedCombisteam = 3
+

@@ -1,0 +1,10 @@
+ParamsValue_UnitSettings.xml:
+062 DaylightSavingAutoAdjust = 1
+
+ParamsValue_Language.xml:
+511 LanguageType = en_GB
+512 KeyboardType = Querty+ Num
+
+ParamsValue_Options.xml:
+234 FirstFlowMeterCorrectionEnable = 0
+

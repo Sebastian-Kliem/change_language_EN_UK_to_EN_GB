@@ -1,0 +1,19 @@
+ParamsValue_UnitSettings.xml:
+013 PreaheatDefaultOn = 1
+062 DaylightSavingAutoAdjust = 1
+
+ParamsValue_Options.xml:
+234 FirstFlowMeterCorrectionEnable = 0
+
+50_manual_cooking_defaults.xml:
+828 SteamTempDefault = 100
+831 CombiTempDefault = 150
+832 CombiHumidityDefault = 35
+833 ConvectionTempDefault = 150
+
+50_japan_mode_enable.xml:
+828 SteamTempDefault = 100
+831 CombiTempDefault = 150
+832 CombiHumidityDefault = 35
+833 ConvectionTempDefault = 150
+

@@ -1,0 +1,6 @@
+ParamsValue_UnitSettings.xml:
+062 DaylightSavingAutoAdjust = 1
+
+ParamsValue_Options.xml:
+234 FirstFlowMeterCorrectionEnable = 0
+

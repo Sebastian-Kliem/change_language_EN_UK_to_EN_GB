@@ -1,0 +1,15 @@
+ParamsValue_UnitSettings.xml:
+011 TimeFormat24 = 0
+012 TemperatureUM = 0
+016 LightBlinkEnable = 1
+
+ParamsValue_Language.xml:
+511 LanguageType = en_US
+512 KeyboardType = Querty+ Num
+
+ParamsValue_CustomisationSettings.xml:
+111 StartScreenMode = 1
+
+ParamsValue_Options.xml:
+234 FirstFlowMeterCorrectionEnable = 0
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <StoreDisable Number="112" Value="1"/>
+    <RunningChangeDisable Number="113" Value="1"/>
+    <RestrictedType Number="121" Value="1"/>
+    <DisableProgramListMenuSelection Number="131" Value="1" />
+    <ExpandBarStepOverviewDisableInQuickMode Number="132" Value="1" />
+    
+    <DisableSteamShot Number="135" Value="1" />
+    <CookingAddTimeOnlyAtTheEnd Number="136" Value="1" />
+    <DisableCoreTempIconWhileCooking Number="137" Value="1" />
+    <ImageNotOpenAutoClean Number="146" Value="1" />
+    
+    <DisableSkipPreheat Number="152" Value="1" />
+    <HideWaterFilterResetButton Number="156" Value="1" />
+</Settings>

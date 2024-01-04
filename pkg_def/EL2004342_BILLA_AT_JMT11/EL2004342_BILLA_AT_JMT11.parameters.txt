@@ -1,0 +1,23 @@
+ParamsValue_UnitSettings.xml:
+016 LightBlinkEnable = 1
+034 ReachPreHeatEventRepeat = 60
+038 EndRecipeEventRepeat = 10
+062 DaylightSavingAutoAdjust = 1
+
+ParamsValue_RunningSettings.xml:
+112 StoreDisable = 1
+113 RunningChangeDisable = 1
+121 RestrictedType = 1
+131 DisableProgramListMenuSelection = 1
+132 ExpandBarStepOverviewDisableInQuickMode = 1
+135 DisableSteamShot = 1
+136 CookingAddTimeOnlyAtTheEnd = 1
+137 DisableCoreTempIconWhileCooking = 1
+146 ImageNotOpenAutoClean = 1
+152 DisableSkipPreheat = 1
+156 HideWaterFilterResetButton = 1
+
+50_LightModeVersion_2.xml:
+338 LightModeVersion = 1
+0150 LightMode2 = 1
+

@@ -1,0 +1,20 @@
+ParamsValue_Options.xml:
+234 FirstFlowMeterCorrectionEnable = 0
+
+ParamsValue_UnitSettings.xml:
+013 PreaheatDefaultOn = 1
+052 EndStepEventVolume = 0
+062 DaylightSavingAutoAdjust = 1
+111 StartScreenMode = 1
+113 RunningChangeDisable = 0
+124 CoreStepDelayEnable = 0
+127 AutoCleanLevelSelection = 2
+131 DisableProgramListMenuSelection = 1
+132 ExpandBarStepOverviewDisableInQuickMode = 1
+134 DisableMultiCooking = 1
+136 CookingAddTimeOnlyAtTheEnd = 1
+141 DoorOpenAfterCooking = 0
+143 DoorOpenAfterCleaning = 0
+146 ImageNotOpenAutoClean = 1
+152 DisableSkipPreheat = 1
+

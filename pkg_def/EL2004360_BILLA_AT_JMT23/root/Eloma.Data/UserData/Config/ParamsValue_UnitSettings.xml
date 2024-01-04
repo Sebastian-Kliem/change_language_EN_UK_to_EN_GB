@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <LightBlinkEnable Number="016" Value="1"/>
+
+    <ReachPreHeatEventRepeat Number="034" Value="60" />
+    <EndRecipeEventRepeat Number="038" Value="10" />
+    
+    <DaylightSavingAutoAdjust Value="1" Number="062" />
+</Settings>

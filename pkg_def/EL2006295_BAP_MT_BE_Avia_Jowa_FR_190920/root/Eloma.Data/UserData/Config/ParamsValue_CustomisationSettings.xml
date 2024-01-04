@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+	<StartScreenMode Number="111" Value="1"/>
+	<StoreDisable Number="112" Value="1"/>
+	<RunningChangeDisable Number="113" Value="1"/>
+	<RestrictedType Number="121" Value="1"/>
+	<CoreStepDelayEnable Number="124" Value="0"/>
+	<AutoCleanLevelSelection Number="127" Value="2"/>
+	<DisableProgramListMenuSelection Number="131" Value="1"/>
+    <ExpandBarStepOverviewDisableInQuickMode Number="132" Value="1"/>
+	<DisableMultiCooking Number="134" Value="1"/>
+	<CookingAddTimeOnlyAtTheEnd Number="136" Value="1"/>
+	<DoorOpenAfterCooking Number="141" Value="0"/>
+    <DoorOpenAfterBaking Number="142" Value="1"/>
+    <DoorOpenAfterCleaning Number="143" Value="0"/>
+	<ImageNotOpenAutoClean Number="146" Value="1"/>
+</Settings>

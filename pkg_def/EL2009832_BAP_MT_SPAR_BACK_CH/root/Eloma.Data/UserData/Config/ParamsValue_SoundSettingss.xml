@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <ReachPreHeatEventSoundFile Number="031" Value="ReachPreheat"/>
+    <ReachPreHeatEventVolume Number="032" Value="5"/>
+    <ReachPreHeatEventDuration Number="033" Value="5"/>
+    <ReachPreHeatEventRepeat Number="034" Value="5"/>
+    <ReachPreHeatEventNumOfRepeat Number="034" Value="0"/>
+    <EndRecipeEventSoundFile Number="035" Value="EndProgram"/>
+    <EndRecipeEventVolume Number="036" Value="5"/>
+    <EndRecipeEventDuration Number="037" Value="5"/>
+    <EndRecipeEventRepeat Number="038" Value="5"/>
+    <EndRecipeEventNumOfRepeat Number="038" Value="0"/>
+    <EndRecipeMultiEventSoundFile Number="041" Value="EndCombiProgram"/>
+    <EndRecipeMultiEventVolume Number="042" Value="5"/>
+    <EndRecipeMultiEventDuration Number="043" Value="5"/>
+    <EndRecipeMultiEventRepeat Number="044" Value="5"/>
+    <EndRecipeMultiEventNumOfRepeat Number="044" Value="0"/>
+    <StartRecipeMultiEventSoundFile Number="045" Value="StartCombiProgram"/>
+    <StartRecipeMultiEventVolume Number="046" Value="5"/>
+    <StartRecipeMultiEventDuration Number="047" Value="5"/>
+    <StartRecipeMultiEventRepeat Number="048" Value="5"/>
+    <StartRecipeMultiEventNumOfRepeat Number="048" Value="0"/>
+    <EndStepEventSoundFile Number="051" Value="EndStep"/>
+    <EndStepEventVolume Number="052" Value="5"/>
+    <EndStepEventDuration Number="053" Value="2"/>
+    <EndStepEventNumOfRepeat Number="053" Value="1"/>
+    <KeepWarmEventSoundFile Number="055" Value="KeepWarm"/>
+    <KeepWarmEventVolume Number="056" Value="5"/>
+    <KeepWarmEventDuration Number="057" Value="3"/>
+    <KeepWarmEventRepeat Number="058" Value="300"/>
+    <KeepWarmEventNumOfRepeat Number="058" Value="0"/>
+    <GasAlarmVolume Number="060" Value="10"/>
+    <CriticalAlarmVolume Number="061" Value="7"/>
+</Settings>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+    <ReachPreHeatEventSoundFile Number="031" Value="EndStep" />
+	<ReachPreHeatEventVolume Number="032" Value="6"/>
+    <ReachPreHeatEventRepeat Number="034" Value="480" />
+	<EndStepEventVolume Number="052" Value="0"/>
+</Settings>

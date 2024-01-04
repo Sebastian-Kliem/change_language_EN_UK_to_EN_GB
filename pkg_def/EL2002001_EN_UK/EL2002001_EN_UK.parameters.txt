@@ -1,0 +1,8 @@
+ParamsValue_Language.xml:
+511 LanguageType = en_GB
+512 KeyboardType = Querty+ Num
+
+ParamsValue_Options.xml:
+224 SteamDischargeEnable = 0
+234 FirstFlowMeterCorrectionEnable = 0
+

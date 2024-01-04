@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+	<SteamTempDefault Value="100" Number="828" />
+	<CombiTempDefault Value="150" Number="831" />
+	<CombiHumidityDefault Value="35" Number="832" />
+	<ConvectionTempDefault Value="150" Number="833" />
+</Settings>

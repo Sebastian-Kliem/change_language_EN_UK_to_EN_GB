@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+	<StartScreenMode Number="111" Value="2" /> <!-- Programs -->
+    <StoreDisable Number="112" Value="1" />
+    <RunningChangeDisable Number="113" Value="1" />
+	<BakingHumidityAmountInTime Number="120" Value="1" />
+    <DisableSteamShot Number="135"  Value="1" />
+	<ImageNotOpenAutoClean Number="146" Value="1" />
+	<HideMenuGroups Number="159" Value="1"/>
+    <ShowTotalRestTimeForBaking Number="160" Value="1"/>
+</Settings>

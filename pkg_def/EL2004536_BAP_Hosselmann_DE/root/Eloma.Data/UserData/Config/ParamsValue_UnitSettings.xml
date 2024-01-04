@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Version="1.0">
+	<PreaheatDefaultOn Number="013" Value="1"/>
+    <PercentMoreOfPreheating Number="014" Value="11"/>
+    <LightBlinkEnable Number="016" Value="1"/>
+    <DaylightSavingAutoAdjust Value="1" Number="062" />
+	<StartScreenType Number="414" Value="0/> <!-- Let's see if that works. This parameter is usually in Install.xml -->
+</Settings>
